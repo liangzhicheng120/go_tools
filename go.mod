@@ -1,4 +1,4 @@
-module go_tools
+module github.com/liangzhicheng120/go_tools
 
 go 1.15
 
