@@ -1,4 +1,4 @@
-module tools
+module go_tools
 
 go 1.15
 
